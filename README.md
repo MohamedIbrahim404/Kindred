@@ -30,7 +30,7 @@
 
 1. **Clone & enter repo**
    ```bash
-   git clone https://github.com/<your-username>/kindred-therapist-ai.git
+   git clone https://github.com/MohamedIbrahim404/Kindred.git
    cd kindred-therapist-ai
    ```
 
