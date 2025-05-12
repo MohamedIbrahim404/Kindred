@@ -50,3 +50,9 @@
    huggingface-cli login
    ```
 
+---
+
+## Notes
+
+GUI will probably be changed in the near future or entirley replaced with an online platform.
+I'm also working on optmizing the responses as for some reason the voice changes every response and the audio is never longer than 8 seconds.
